@@ -1,4 +1,4 @@
-/* Jottem merkgids — progressive enhancement: zonder JS werkt en toont de pagina alles. */
+/* Jottem merkgids - progressive enhancement: zonder JS werkt en toont de pagina alles. */
 document.documentElement.classList.add('js');
 
 /* kleur kopiëren */
