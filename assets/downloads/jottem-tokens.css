@@ -1,0 +1,18 @@
+/* Jottem design tokens — de basislaag van de huisstijl (brand.iotm.nl)
+   Organisatiekleuren komen per organisatiejottem óver deze laag heen. */
+:root {
+    --oranje: #d85a30;        /* primair: knoppen, links, de O */
+    --oranje-donker: #c04e28; /* hover-toestand */
+    --roest: #a2401f;         /* secundair: koppen op licht, linkkleur */
+    --inkt: #1f1e1c;          /* tekst */
+    --grijs: #6b625c;         /* bijschriften, gedempte tekst */
+    --papier: #faf6f1;        /* achtergrond */
+    --karton: #e8d9c4;        /* vlakken */
+    --kartonrand: #d3bfa3;    /* randen en lijnen */
+    --geel: #fdf3c0;          /* memo's en stickers */
+    --geelrand: #e5d489;      /* rand om memo's */
+    --wit: #ffffff;           /* kaarten */
+    --onderkant: #665245;     /* footer */
+    --kop: 'Fraunces', Georgia, 'Times New Roman', serif;
+    --body: 'Albert Sans', 'Segoe UI', system-ui, Helvetica, Arial, sans-serif;
+}
