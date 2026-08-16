@@ -334,6 +334,14 @@ td code { font-family: ui-monospace, 'Cascadia Code', Menlo, Consolas, monospace
 }
 .spraakwolk-demo { text-align: center; }
 .spraakwolk-demo img { width: 4.5rem; }
+.dialoog-demo {
+    background: var(--wit); border: 1px solid var(--kartonrand); border-top: 4px solid var(--oranje);
+    border-radius: .45rem; box-shadow: 0 10px 40px rgba(31, 30, 28, .3);
+    padding: 1.3rem 1.4rem; max-width: 17rem; margin: 0 auto; font-size: .95rem;
+}
+.dialoog-demo h4 { font-family: var(--kop); font-size: 1.1rem; margin-bottom: .5rem; }
+.dialoog-knoppen { margin-top: .9rem; }
+.dialoog-demo .btn { font-size: .9rem; padding: .45rem 1rem; }
 
 /* ---------- beeldgebruik ---------- */
 .beeld-paar { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1.6rem; margin-top: 2rem; }
