@@ -24,6 +24,8 @@
 
 /* ---------- design tokens ---------- */
 :root {
+    /* formulier-elementen (checkboxes, keuzerondjes, voortgang) kleuren roest mee */
+    accent-color: #a2401f;
     --oranje: #d85a30;
     --oranje-donker: #c04e28;
     --roest: #a2401f;

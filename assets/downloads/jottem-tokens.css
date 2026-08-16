@@ -1,6 +1,7 @@
 /* Jottem design tokens - de basislaag van de huisstijl (brand.iotm.nl)
    Organisatiekleuren komen per organisatiejottem óver deze laag heen. */
 :root {
+    accent-color: #a2401f;    /* formulier-elementen (checkbox, radio) kleuren roest */
     --oranje: #d85a30;        /* primair: knoppen, links, de O */
     --oranje-donker: #c04e28; /* hover-toestand */
     --roest: #a2401f;         /* secundair: koppen op licht, linkkleur */
