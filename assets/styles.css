@@ -420,6 +420,9 @@ footer .binnen { max-width: var(--max); }
 footer strong { color: var(--papier); }
 footer a { color: var(--papier); text-decoration-color: var(--oranje); }
 footer a:hover { color: var(--oranje); }
+.lic-tabel { margin-top: 1.2rem; max-width: 40rem; font-size: .92rem; }
+.lic-tabel caption { text-align: left; font-weight: 700; color: var(--papier); padding-bottom: .4rem; }
+.lic-tabel td { padding: .35rem .8rem .35rem 0; border-bottom: 1px solid rgba(250, 246, 241, .18); }
 
 /* ---------- klein scherm ---------- */
 @media (max-width: 44rem) {
